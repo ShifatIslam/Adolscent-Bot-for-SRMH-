@@ -4,7 +4,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
   <h3 align="center">SuSastho.AI Chatbot</h3>
 
   <p align="center">
